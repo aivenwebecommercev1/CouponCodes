@@ -1,1 +1,1 @@
-{"id":"0c98271c-e6d7-48d6-96d9-5a4d000acf36","code":"NAVIDAD","type":0,"value":30.0,"minAmount":0,"maxAmount":5200,"categories":null,"subCategories":null,"products":null,"customers":null,"dateStart":"2020-11-27T00:00:00+00:00","dateExpire":null}
+{"id":"0c98271c-e6d7-48d6-96d9-5a4d000acf36","code":"NAVIDAD","type":0,"value":30.0,"minAmount":0,"maxAmount":5200,"categories":["Motor"],"subCategories":null,"products":null,"customers":null,"dateStart":"2020-11-27T00:00:00+00:00","dateExpire":null}
